@@ -29,6 +29,4 @@ latest_posts:
 
 TEST SITE
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+A researcher experienced in the fields of biotechnology, microbiology, and molecular biology. My research interests include the application of transcriptomics, metagenomics, genomics, and machine learning in fish health management, ecology, and host-microbe interactions; discovery of bioactive substances for therapeutics; and development of diagnostic tools. 
