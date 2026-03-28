@@ -30,7 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-projects",
+        },{id: "dropdown-awards",
+              title: "awards",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/awards/";
+              },
+            },{id: "dropdown-projects",
               title: "projects",
               description: "",
               section: "Dropdown",
@@ -50,6 +57,20 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/presentations/";
+              },
+            },{id: "dropdown-intellectual-property",
+              title: "intellectual property",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/ip/";
+              },
+            },{id: "dropdown-press-releases",
+              title: "press releases",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/press/";
               },
             },{id: "nav-affiliations",
           title: "affiliations",
